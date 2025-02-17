@@ -1,0 +1,17 @@
+{
+    "name": "nonpawit/php-moskuza-mvc",
+    "description": "Moskuza's style of php mvc",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nonpawit P.",
+            "email": "nonpawit.p@outlook.com"
+        }
+    ],
+    "require": {}
+}
